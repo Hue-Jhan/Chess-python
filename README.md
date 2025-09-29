@@ -1,5 +1,7 @@
 # Chess python
-Chess in python (University Project, Ingegneria Del Software)
+Chess in python (University Project, Ingegneria Del Software). 
+
+Collaborators: [@CiciStefanoUniba](https://github.com/CiciStefanoUniba), [@Antob0906](https://github.com/Antob0906) and two other people i won't mention.
 
 # 🕹 Game
 
